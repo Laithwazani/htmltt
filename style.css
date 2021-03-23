@@ -1,0 +1,24 @@
+.d1{
+    color:rgb(207, 24, 24);
+    background-color: whitesmoke;
+    padding: 30px;
+    text-align: center;
+}
+.d2{
+    nav-left: current;
+}
+img{
+    max-width: 20%;
+    border-radius: 50%;
+}
+p{
+   
+    
+}
+.d3{
+    display: flex;
+    background-color: whitesmoke;
+}
+footer{
+    text-align: center;
+}
